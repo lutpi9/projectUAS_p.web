@@ -30,8 +30,8 @@
                 <div class="row">
                     <div class="col-md-4">
                         <h5>Kontak Kami</h5>
-                        <p>Email: mfaiziqbal01@gmail.com</p>
-                        <p>Telepon: (+62) 0875-4352-7758</p>
+                        <p>Email: lutpiahainus@gmail.com</p>
+                        <p>Telepon: (+62) 823-3345-6789</p>
                     </div>
                     <div class="col-md-4">
                         <h5>Ikuti Kami</h5>
@@ -41,7 +41,7 @@
                     </div>
                     <div class="col-md-4">
                         <h5>Lokasi</h5>
-                        <p>Jl. Saranjana, Kota Modern</p>
+                        <p>Jl. maju, Kota Mundur</p>
                         <p>Indonesia</p>
                     </div>
                 </div>
